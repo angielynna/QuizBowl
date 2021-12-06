@@ -12,6 +12,7 @@ import java.util.*;
  * @version 5 November 2021
  */
 public class Player {   
+   
    /*first name of player*/
    private String myPlayerFirstName;
    
