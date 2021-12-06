@@ -13,6 +13,7 @@ import java.util.*;
  * @version 5 November 2021
  */
 public class QuestionMC extends Question {
+   
    /*Arraylist of Strings to store multiple choice entries*/
    private ArrayList<String> myMCEntries;
    
