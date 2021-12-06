@@ -14,6 +14,7 @@ import java.util.*;
  * @version 5 November 2021
  */
 public abstract class Question {
+   
    /*stores the question*/
    private String myQuestion;
    /*stores a point value*/
