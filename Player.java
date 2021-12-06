@@ -11,8 +11,7 @@ import java.util.*;
  * @author Angelynna Pyeatt
  * @version 5 November 2021
  */
-public class Player {
-   
+public class Player {   
    /*first name of player*/
    private String myPlayerFirstName;
    
