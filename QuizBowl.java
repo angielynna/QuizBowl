@@ -1,7 +1,7 @@
-/*
-   * Author:  Angelynna Pyeatt
-   * Description: Class QuizBowl to read from sample.txt file and play quiz
-*/
+/**
+  * Author:  Angelynna Pyeatt
+  * Description: Class QuizBowl to read from sample.txt file and play quiz
+  */
 
 import java.util.*;
 import java.io.*;
