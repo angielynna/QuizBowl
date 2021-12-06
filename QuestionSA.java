@@ -13,6 +13,7 @@ import java.util.*;
  * @version 5 November 2021
  */
 public class QuestionSA extends Question {
+   
    /*stores the correct answer to a particular question*/
    private String myAnswer;
    
